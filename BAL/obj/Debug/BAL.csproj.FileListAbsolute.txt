@@ -1,0 +1,14 @@
+C:\Users\NARESH\source\repos\Solution1\BAL\bin\Debug\BAL.exe.config
+C:\Users\NARESH\source\repos\Solution1\BAL\bin\Debug\BAL.exe
+C:\Users\NARESH\source\repos\Solution1\BAL\bin\Debug\BAL.pdb
+C:\Users\NARESH\source\repos\Solution1\BAL\bin\Debug\DAL.exe
+C:\Users\NARESH\source\repos\Solution1\BAL\bin\Debug\DTO.exe
+C:\Users\NARESH\source\repos\Solution1\BAL\bin\Debug\DAL.pdb
+C:\Users\NARESH\source\repos\Solution1\BAL\bin\Debug\DAL.exe.config
+C:\Users\NARESH\source\repos\Solution1\BAL\bin\Debug\DTO.pdb
+C:\Users\NARESH\source\repos\Solution1\BAL\bin\Debug\DTO.exe.config
+C:\Users\NARESH\source\repos\Solution1\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\NARESH\source\repos\Solution1\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\NARESH\source\repos\Solution1\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\NARESH\source\repos\Solution1\BAL\obj\Debug\BAL.exe
+C:\Users\NARESH\source\repos\Solution1\BAL\obj\Debug\BAL.pdb
