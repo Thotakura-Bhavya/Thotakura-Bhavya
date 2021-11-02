@@ -1,7 +1,0 @@
-C:\Users\NARESH\source\repos\Solution1\DTO\bin\Debug\DTO.exe.config
-C:\Users\NARESH\source\repos\Solution1\DTO\bin\Debug\DTO.exe
-C:\Users\NARESH\source\repos\Solution1\DTO\bin\Debug\DTO.pdb
-C:\Users\NARESH\source\repos\Solution1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
-C:\Users\NARESH\source\repos\Solution1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
-C:\Users\NARESH\source\repos\Solution1\DTO\obj\Debug\DTO.exe
-C:\Users\NARESH\source\repos\Solution1\DTO\obj\Debug\DTO.pdb
